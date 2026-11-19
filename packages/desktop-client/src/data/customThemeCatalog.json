@@ -452,5 +452,18 @@
       "#f59e0b"
     ],
     "mode": "dark"
+  },
+  {
+    "name": "Plus",
+    "repo": "csantiviago/plus-theme",
+    "colors": [
+      "#0f1420",
+      "#161d2e",
+      "#6f8bfa",
+      "#dde6f2",
+      "#4ade80",
+      "#f87171"
+    ],
+    "mode": "dark"
   }
 ]
